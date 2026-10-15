@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($paths = @\\(\"C:\\\\Program Files\\\\Java\",\"C:\\\\Program Files\\\\Eclipse Adoptium\",\"C:\\\\Program Files\\\\Microsoft\",\"C:\\\\Program Files\\\\Zulu\",\"C:\\\\Program Files\\\\Amazon Corretto\",\"$env:LOCALAPPDATA\\\\Programs\",\"$env:USERPROFILE\\\\.gradle\\\\jdks\",\"$env:USERPROFILE\\\\.jdks\"\\); foreach \\($p in $paths\\) { if \\(Test-Path $p\\) { Get-ChildItem $p -Directory -ErrorAction SilentlyContinue | ForEach-Object { $_.FullName } } })"
+    ]
+  }
+}

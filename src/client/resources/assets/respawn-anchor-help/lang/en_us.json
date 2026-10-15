@@ -1,0 +1,13 @@
+{
+	"key.category.respawn-anchor-help.main": "Respawn Anchor Help",
+	"key.respawn-anchor-help.swap": "Toggle anchor/glowstone swap",
+	"key.respawn-anchor-help.explosions": "Toggle explosion particles",
+	"key.respawn-anchor-help.totems": "Toggle totem particles",
+	"key.respawn-anchor-help.totemswap": "Toggle totem swap assist",
+	"key.respawn-anchor-help.shield": "Toggle shield fallback",
+	"key.respawn-anchor-help.totemclick": "Toggle right-click totem in inventory",
+	"key.respawn-anchor-help.totemhand": "Toggle right-click totem in hand",
+	"key.respawn-anchor-help.totemreturn": "Toggle return to previous item",
+	"key.respawn-anchor-help.sword": "Toggle sword swap on hit",
+	"key.respawn-anchor-help.foodswap": "Toggle food swap assist"
+}
