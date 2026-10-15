@@ -1,6 +1,6 @@
 # Respawn Anchor Help
 
-Client-side Fabric mod for Minecraft 26.2. Three small combat quality-of-life changes,
+Client-side Fabric mod for Minecraft 26.3. Three small combat quality-of-life changes,
 each independently toggleable.
 
 ## Features
@@ -175,7 +175,7 @@ Settings persist to `config/respawn-anchor-help.properties`. All three default t
 
 The jar lands in `build/libs/`. Requires JDK 25.
 
-Minecraft 26.2 is unobfuscated, so this project uses the `net.fabricmc.fabric-loom`
+Minecraft 26.3 is unobfuscated, so this project uses the `net.fabricmc.fabric-loom`
 plugin with no `mappings` line, `implementation` rather than `modImplementation`, and
 `jar` rather than `remapJar`.
 
